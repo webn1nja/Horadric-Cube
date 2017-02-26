@@ -1,7 +1,9 @@
 # Horadric-Cube
 Creating a Horadric Cube from Diablo 2 in browser with all its logic and recipes
 
-### *Hello my friend.  Stay awhile and listen.*</br> Deckard Cain
+####*Hello my friend.  Stay awhile and listen.*</br> Deckard Cain
+![То, что хочется сделать](http://ntc-transport.ru/img/a25fad1fc460868653927eb647c80d03.jpg)
+
 
 Как-то мне захотелось сделать что-нибудь теплое ламповое для души, а заодно и покачать свои навыки.
 Я очень люблю Diablo 2. Сколько раз я ее прошел даже не помню)))
@@ -9,8 +11,9 @@ Creating a Horadric Cube from Diablo 2 in browser with all its logic and recipes
 Чтобы было как в игре - ты переносишь определенные ингредиенты, нажимаешь кнопку и получаешь другой, желанный.
 
 ####Что хочется сделать:
++ul - спроектировать интерфейс страницы, на которой все будет
++ul - сверстать интерфейс Хорадрического куба и окна инвентаря персонажа
++ - реализовать работу рецептов
 
 
 Я приглашаю н
-
-![alt text](http://ntc-transport.ru/img/a25fad1fc460868653927eb647c80d03.jpg)
