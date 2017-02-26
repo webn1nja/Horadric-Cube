@@ -13,4 +13,4 @@ Creating a Horadric Cube from Diablo 2 in browser with all its logic and recipes
 
 Я приглашаю н
 
-!(http://ntc-transport.ru/img/a25fad1fc460868653927eb647c80d03.jpg)
+![alt text](http://ntc-transport.ru/img/a25fad1fc460868653927eb647c80d03.jpg)
