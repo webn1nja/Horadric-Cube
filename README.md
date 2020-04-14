@@ -2,8 +2,6 @@
 Creating a Horadric Cube from Diablo 2 in browser with all its logic and recipes
 
 ####*Hello my friend.  Stay awhile and listen.*</br> Deckard Cain
-![То, что хочется сделать](http://ntc-transport.ru/img/a25fad1fc460868653927eb647c80d03.jpg)
-
 
 Как-то мне захотелось сделать что-нибудь теплое ламповое для души, а заодно и покачать свои навыки создания игровых интерфейсов.
 Я очень люблю Diablo 2. Сколько раз я ее прошел даже не помню)))
@@ -18,13 +16,4 @@ Creating a Horadric Cube from Diablo 2 in browser with all its logic and recipes
 
 По задумке, абсолютно все на странице должно быть как в игре или быть максимально на нее похожим
 
-В дальнейшем возможно сверстать дерево навыков и красивый расчет параметров персонажа.
 
-####Стек технологий:
-+ HTML5, CSS3
-+ LESS
-+ Пишем на чистом JS
-+ Gulp
-
-#### Обсуждение проекта происходит [тут](https://github.com/webn1nja/Horadric-Cube/issues/1)
-#### Если вы хотите присоединиться к этому проекту, то свяжитесь со мной тут или [Вконтакте](https://vk.com/id377326084)
